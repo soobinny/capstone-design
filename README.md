@@ -222,6 +222,10 @@
 <details>
 <summary><strong>🔧 배포 상세 구조 보기</strong></summary>
 
+
+> 본 프로젝트는 기능 구현 및 학습 목적의 프로젝트로,  
+> 현재는 실서비스 운영을 진행하지 않고 있습니다.
+
 ### ☁️ AWS 인프라 구성
 - **EC2** – Spring Boot 백엔드 서버 운영
 - **RDS(MySQL)** – 데이터베이스
